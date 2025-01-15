@@ -1,7 +1,7 @@
 # Interactive Chatbot
 #### Welcome to the Chatbot project! This project demonstrates how to create a simple yet functional chatbot using HTML, CSS, and jQuery. Chatbots are essential tools for enhancing user interaction on websites, providing instant responses to user queries.
 
-<img src="./assets/images/chatbot.png" alt="chatbot" />
+<img src="./assets/images/chatbot.gif" alt="chatbot" />
 
 # Live Demo
 #### [View the live demo](https://chatbot-said.vercel.app)
